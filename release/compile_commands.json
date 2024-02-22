@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release\" -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/bwtree/include\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -pthread -std=gnu++17 -o CMakeFiles/bwtreeplus.dir/main.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/main.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/main.cc"
+},
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/bwtree",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/bwtree/include\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/bwtree.dir/src/bwtree.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/bwtree/src/bwtree.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/bwtree/src/bwtree.cc"
+},
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/test",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/bwtree/include\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/include\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/bwtree_test.dir/bwtree_test.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/test/bwtree_test.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/test/bwtree_test.cc"
+},
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock/include\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/include\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock/src/gmock_main.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock/include\" -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/include\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock/src/gmock-all.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++   -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/include\" -isystem \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/src/gtest_main.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/include\" -I\"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest\"   -Wno-invalid-offsetof -O3 -DNDEBUG   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/src/gtest-all.cc\"",
+  "file": "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/release/_deps/googletest-src/googletest/src/gtest-all.cc"
+}
+]

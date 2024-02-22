@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libbwtree.a  CMakeFiles/bwtree.dir/src/bwtree.cc.o
+/usr/bin/ranlib ../lib/libbwtree.a

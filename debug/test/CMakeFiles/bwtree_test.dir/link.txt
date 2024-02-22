@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -g   CMakeFiles/bwtree_test.dir/bwtree_test_density.cc.o  -o ../bin/bwtree_test  ../lib/libbwtree.a ../lib/libgtest_maind.a ../lib/libgtestd.a -pthread 

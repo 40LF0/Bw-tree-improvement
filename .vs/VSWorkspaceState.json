@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bwtree",
+    "\\bwtree\\include",
+    "\\bwtree\\src",
+    "\\test"
+  ],
+  "SelectedNode": "\\test\\bwtree_test.cc",
+  "PreviewInSolutionExplorer": false
+}

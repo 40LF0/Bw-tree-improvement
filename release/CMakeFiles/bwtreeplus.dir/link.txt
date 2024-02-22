@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-invalid-offsetof -O3 -DNDEBUG   CMakeFiles/bwtreeplus.dir/main.cc.o  -o bin/bwtreeplus  lib/libbwtree.a -pthread 

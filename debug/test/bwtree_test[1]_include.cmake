@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/debug/test/bwtree_test[1]_tests.cmake")
+  include("/mnt/c/Users/wjdac/Desktop/22년 일정/22-2학기/concurrent_programing/2022_ite4065_2019082851/project3/debug/test/bwtree_test[1]_tests.cmake")
+else()
+  add_test(bwtree_test_NOT_BUILT bwtree_test_NOT_BUILT)
+endif()
